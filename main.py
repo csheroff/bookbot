@@ -1,4 +1,8 @@
-from stats import get_num_words, get_chars_dict, get_chars_dict
+from stats import ( 
+    get_num_words, 
+    chars_dict_to_sorted_list, 
+    get_chars_dict,
+)
 
 
 def main():
